@@ -1,3 +1,8 @@
+If you're looking to work with NASA PDS images in Python you should check out PlatetaryImage first:
+
+https://github.com/planetarypy/planetaryimage
+
+
 =====
 PyPDS
 =====
